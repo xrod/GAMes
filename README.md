@@ -1,6 +1,6 @@
-# GAMMes (Genetic Algorithm for Multi-Messenger)
+# GAMes (Genetic Algorithm for multi-Messenger)
 
-Python package that provides utility functions for optimizing the physical parameters of AGNs/blazars by fitting to observational data the Spectral Energy Distribution (SED) of photons and neutrinos obtained by a theoretical model.
+GAMes is a Python package that provides utility functions for optimizing the physical parameters of AGNs/blazars. GAMes works by iteratively comparing photon and neutrino spectra obtained through simulations with observational data 
 
 The software has been tested using the AM3 radiation model (S. Gao 2017) to obtain the blazar SEDs.
 
