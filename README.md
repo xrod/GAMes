@@ -9,6 +9,8 @@ Xavier Rodrigues 2019
 ## Prerequisites
 
 [Python 3.7]
+
 [DEAP] (https://github.com/DEAP/deap) -- evolutionary computation tools for Python
+
 [AM3] -- the AM3 libraries are necessary to make a new Python AM3 extension module besides the one given (e.g. for changing the blazar parameters to be optimized)
 
