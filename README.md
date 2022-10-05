@@ -1,6 +1,6 @@
-# genetic-algorithm-for-multi-messenger
-Genetic Algorithm for Multi-Messenger Optimization
-Python module that optimizes the physical parameters of AGNs/blazars by comparing the Spectral Energy Distribution (SED) obtained by a radiation model to the observational data. Neutrino emission may also be included in the optimization.
+# GAMMes (Genetic Algorithm for Multi-Messenger)
+
+Python package that provide utility functions for optimizing the physical parameters of AGNs/blazars by comparing the Spectral Energy Distribution (SED) obtained by a radiation model to the observational data. Neutrino emission can also be included in the optimization.
 
 The software has been tested using the AM3 radiation model (S. Gao 2017) to obtain the blazar SEDs.
 
