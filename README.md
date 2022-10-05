@@ -1,6 +1,6 @@
 # GAMMes (Genetic Algorithm for Multi-Messenger)
 
-Python package that provide utility functions for optimizing the physical parameters of AGNs/blazars by comparing the Spectral Energy Distribution (SED) obtained by a radiation model to the observational data. Neutrino emission can also be included in the optimization.
+Python package that provides utility functions for optimizing the physical parameters of AGNs/blazars by fitting to observational data the Spectral Energy Distribution (SED) of photons and neutrinos obtained by a theoretical model.
 
 The software has been tested using the AM3 radiation model (S. Gao 2017) to obtain the blazar SEDs.
 
